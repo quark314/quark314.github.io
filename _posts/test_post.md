@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Post, Please Ignore
-published: false
+published: true
 ---
 
 <h1> test h1 </h1>
