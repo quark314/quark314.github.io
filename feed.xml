@@ -6,6 +6,14 @@
 <description>Follow along on my year living at the south pole!</description>
 
 <item>
+  <title>What is Twilight?</title>
+  <link>http://weblogarithms.com/posts/twilight.html</link>
+  <guid>http://weblogarithms.com/posts/twilight.html</guid>
+  <pubDate>Fri, 25 Mar 2016 10:40:00 GMT </pubDate>
+  <description>Day is done, gone the sun</description>
+</item>
+
+<item>
   <title>But seriously, how do you get to the south pole?</title>
   <link>http://weblogarithms.com/posts/travel.html</link>
   <guid>http://weblogarithms.com/posts/travel/guid>
@@ -43,14 +51,6 @@
   <guid>http://weblogarithms.com/posts/FAQ.html</guid>
   <pubDate>Tue, 9 Feb 2016 12:00:00 GMT </pubDate>
   <description>Frequently asked questions</description>
-</item>
-
-<item>
-  <title>Psych eval in Denver</title>
-  <link>http://weblogarithms.com/posts/psych.html</link>
-  <guid>http://weblogarithms.com/posts/psych.html</guid>
-  <pubDate>Wed, 9 Feb 2016 12:00:00 GMT </pubDate>
-  <description>My trip to Denver for the psych evaluation</description>
 </item>
 
 
