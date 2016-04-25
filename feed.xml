@@ -6,6 +6,14 @@
 <description>Follow along on my year living at the south pole!</description>
 
 <item>
+  <title>Auroras</title>
+  <link>http://weblogarithms.com/posts/auroras.html</link>
+  <guid>http://weblogarithms.com/posts/auroras.html</guid>
+  <pubDate>Mon, 25 Apr 2016 07:45:00 GMT </pubDate>
+  <description>What do auroras look like?</description>
+</item>
+
+<item>
   <title>What is Twilight?</title>
   <link>http://weblogarithms.com/posts/twilight.html</link>
   <guid>http://weblogarithms.com/posts/twilight.html</guid>
@@ -43,14 +51,6 @@
   <guid>http://weblogarithms.com/posts/theBlogLives.html</guid>
   <pubDate>Fri, 12 Feb 2016 07:11:00 GMT </pubDate>
   <description>Server problems: fixed.  Blog: happening.</description>
-</item>
-
-<item>
-  <title>FAQ</title>
-  <link>http://weblogarithms.com/posts/FAQ.html</link>
-  <guid>http://weblogarithms.com/posts/FAQ.html</guid>
-  <pubDate>Tue, 9 Feb 2016 12:00:00 GMT </pubDate>
-  <description>Frequently asked questions</description>
 </item>
 
 
