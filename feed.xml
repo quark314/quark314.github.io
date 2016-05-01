@@ -7,6 +7,14 @@
 
 <item>
   <title>Auroras</title>
+  <link>http://weblogarithms.com/posts/jazzDay.html</link>
+  <guid>http://weblogarithms.com/posts/jazzDay.html</guid>
+  <pubDate>Sun, 1 May 2016 07:30:00 GMT </pubDate>
+  <description>Does the South Pole Station observe International Jazz Day?</description>
+</item>
+
+<item>
+  <title>Auroras</title>
   <link>http://weblogarithms.com/posts/auroras.html</link>
   <guid>http://weblogarithms.com/posts/auroras.html</guid>
   <pubDate>Mon, 25 Apr 2016 07:45:00 GMT </pubDate>
@@ -45,13 +53,6 @@
   <description>Station close</description>
 </item>
 
-<item>
-  <title>The Blog Liiiiiives!</title>
-  <link>http://weblogarithms.com/posts/theBlogLives.html</link>
-  <guid>http://weblogarithms.com/posts/theBlogLives.html</guid>
-  <pubDate>Fri, 12 Feb 2016 07:11:00 GMT </pubDate>
-  <description>Server problems: fixed.  Blog: happening.</description>
-</item>
 
 
 </channel>
