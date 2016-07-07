@@ -6,6 +6,14 @@
 <description>Follow along on my year living at the south pole!</description>
 
 <item>
+  <title>Winter Wear</title>
+  <link>http://weblogarithms.com/posts/winterWear.html</link>
+  <guid>http://weblogarithms.com/posts/winterWear.html</guid>
+  <pubDate>Sun, 7 Jul 2016 20:30:00 GMT </pubDate>
+  <description>What's do you wear outside?</description>
+</item>
+
+<item>
   <title>Station Tour</title>
   <link>http://weblogarithms.com/posts/stationTour.html</link>
   <guid>http://weblogarithms.com/posts/stationTour.html</guid>
@@ -45,13 +53,6 @@
   <description>How to get to the South Pole in 3 easy steps</description>
 </item>
 
-<item>
-  <title>Is the "Last Flight" really the last flight?</title>
-  <link>http://weblogarithms.com/posts/realLastPlane.html</link>
-  <guid>http://weblogarithms.com/posts/realLastPlane.html</guid>
-  <pubDate>Sat, 27 Feb 2016 09:42:00 GMT </pubDate>
-  <description>The actual last planes</description>
-</item>
 
 
 </channel>
