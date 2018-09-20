@@ -12,7 +12,7 @@ table{
 	table-layout:auto;
 	vertical-align:top;
 	margin-bottom:15px;
-	border:1px solid #CCCCCC;
+	border:0px solid #CCCCCC;
 	}
 
 table thead th{
@@ -26,14 +26,14 @@ table thead th{
 	}
 
 table tbody td{
-	vertical-align:top;
+	vertical-align:middle;
 	border-collapse:collapse;
-	border-left:1px solid #CCCCCC;
-	border-right:1px solid #CCCCCC;
+	border-left:0px solid #CCCCCC;
+	border-right:0px solid #CCCCCC;
 	}
 	
 table thead th, table tbody td{
-	padding:5px;
+	padding:0px;
 	border-collapse:collapse;
 	}
 
