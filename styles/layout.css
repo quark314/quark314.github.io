@@ -17,7 +17,7 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 body{
 	margin:0;
 	padding:0;
-	font-size:13px;
+	font-size:15px;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#262626;
   /*color:#6D6D6D;*/
@@ -57,7 +57,7 @@ div.wrapper{
 div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{
 	margin:0 0 15px 0;
 	padding:0;
-	font-size:16px;
+	font-size:17px;
 	font-weight:normal;
 	font-style:normal;
 	line-height:normal;
@@ -66,7 +66,7 @@ div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{
 div.wrapper h1{
 	margin:0 0 15px 0;
 	padding:0;
-	font-size:18px;
+	font-size:22px;
 	font-weight:bold;
 	font-style:normal;
 	line-height:normal;
