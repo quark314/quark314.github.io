@@ -18,7 +18,7 @@ table{
 table thead th{
 	color:#FFFFFF;
 	background-color:#06213F;
-	border:1px solid #CCCCCC;
+	border:0px solid #CCCCCC;
 	border-collapse:collapse;
 	text-align:center;
 	table-layout:auto;
