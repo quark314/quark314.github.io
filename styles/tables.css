@@ -11,8 +11,8 @@ table{
 	border-collapse:collapse;
 	table-layout:auto;
 	vertical-align:top;
-	margin-bottom:15px;
-	border:0px solid #CCCCCC;
+	margin-bottom:10px;
+	border:1px solid #FFFFFF;
 	}
 
 table thead th{
