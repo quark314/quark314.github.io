@@ -140,10 +140,15 @@ div.wrapper h1{
 	background-color:#F9F9F9;
 	}
 
-#container h1, #container h2, #container h3, #container h4, #container h5, #container h6{
+#container h1, #container h2, #container h3{
 	padding-bottom:8px;
 	border-bottom:1px solid #DEDACB;
 	}
+	
+#container h4, #container h5, #container h6{
+    padding-bottom:2px;
+    border-bottom:0px solid #DEDACB;
+    }
 
 #container .readmore{
 	display:block;
